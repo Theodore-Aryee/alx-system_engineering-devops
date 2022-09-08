@@ -1,1 +1,1 @@
-dispalying directory content including hidden files
+display long format and user id
